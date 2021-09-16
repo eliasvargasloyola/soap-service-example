@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class CrearSolicitudInspeccionService {
     public String crearSoli(CrearSolicitudInspeccionRequest stringXml) {
-        return "<response>Hola</response>";
+        return "<response>Hi All</response>";
     }
 }
