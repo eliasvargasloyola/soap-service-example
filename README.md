@@ -4,6 +4,12 @@ In this project you can find a complete configuration to expose a SOAP service w
 
 Project based on Spring Documentation [HERE](https://spring.io/guides/gs/producing-web-service/)
 
+### Versions
+
+- Java 1.8
+- Gradle 6.9
+- SpringBoot 2.5.4
+
 ### Commands to init:
 
 1. `./gradlew clean build`
